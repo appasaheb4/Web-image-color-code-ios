@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - UIColor_Hex_Swift (4.0.1)
+
+DEPENDENCIES:
+  - SDWebImage
+  - UIColor_Hex_Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  UIColor_Hex_Swift: c5ff88470499383b8fd85302d59344bb24ba9436
+
+PODFILE CHECKSUM: 08976fe23c9f4f8b144ae44a180f88935e78ba2e
+
+COCOAPODS: 1.5.3

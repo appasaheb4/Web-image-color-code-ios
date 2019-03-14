@@ -1,0 +1,6 @@
+framework module Pods_WebImageColorCode {
+  umbrella header "Pods-WebImageColorCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
